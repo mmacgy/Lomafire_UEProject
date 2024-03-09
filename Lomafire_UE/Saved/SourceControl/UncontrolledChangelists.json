@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/BP_EnemyAI.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/CutScene/JumpScareTest.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/CamShake.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/CamShake.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/CamShake.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/BP_EnemyAI.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/BP_EnemyAI.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1_BuiltData.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1_BuiltData.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/Paper.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/UI/TestUI.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/UI/NewHUD.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/BP_EnemyAI.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/CameShake.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/CamShake.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MD/TMEE5OD0BZC3ENENH21FEP.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/NewBlueprint.uasset"
+			]
+		}
+	]
+}
