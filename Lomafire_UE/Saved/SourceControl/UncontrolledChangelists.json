@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Lomafire_UEProject/Lomafire_UE/Content/CutScene/RealJumpScare.uasset",
+				"D:/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
+				"D:/Lomafire_UEProject/Lomafire_UE/Content/UI/TestUI.uasset",
+				"D:/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/Paper.uasset",
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/BP_EnemyAI.uasset",
@@ -32,10 +37,6 @@
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Sound/PaperCollect.uasset",
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Sound/TheChase.uasset",
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Sound/TheChase_Cue.uasset",
-				"D:/Lomafire_UEProject/Lomafire_UE/Content/CutScene/RealJumpScare.uasset",
-				"D:/Lomafire_UEProject/Lomafire_UE/Content/Levels/Level1.umap",
-				"D:/Lomafire_UEProject/Lomafire_UE/Content/UI/TestUI.uasset",
-				"D:/Lomafire_UEProject/Lomafire_UE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/CutScene/JumpScareTest.uasset",
 				"C:/Users/azusa/Documents/Lomafire_UEProject/Lomafire_UE/Content/Blueprint/NewBlueprint.uasset"
 			]
